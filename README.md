@@ -1,13 +1,14 @@
-"Hello World"😜
+<h4>"Hello World!" 😉
 <br>
-Eu sou o Myke, tenho 27 anos e sou um Dev Júnior!
+Eu sou o Myke, tenho 27 anos e sou um Dev Júnior! 🔰
 <br>
-🐱‍💻Atualmente tenho estudado e trabalhado com Angular
+Atualmente estudo e desenvolvo com o Angular. 🐱‍💻 </h4>
 <div align="center">
 <a href="https://github.com/mykecosta2142">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mykecosta2142&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykecosta2142&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+<h4>Também uso no meu dia-a-dia ⬇</h4>
 <div style="display: inline_block"><br>
 <img align="center" alt="Myke-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="Myke-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">

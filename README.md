@@ -1,6 +1,6 @@
 <h3>"Hello World!" 😉
 <br>
-Eu sou o Myke, tenho 27 anos e sou um Dev Júnior! 🔰
+Eu sou o Myke, tenho 27 anos e trabalho como Dev FrontEnd Júnior! 🔰
 <br>
 Atualmente estudo e desenvolvo com o Angular. 🐱‍💻 </h3> 
 <div align="center">

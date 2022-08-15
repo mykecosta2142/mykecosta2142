@@ -1,8 +1,8 @@
-"Hello World!" 😉
+<h3>"Hello World!" 😉
 <br>
 Eu sou o Myke, tenho 27 anos e sou um Dev Júnior! 🔰
 <br>
-Atualmente estudo e desenvolvo com o Angular. 🐱‍💻 
+Atualmente estudo e desenvolvo com o Angular. 🐱‍💻 </h3> 
 <div align="center">
 <a href="https://github.com/mykecosta2142">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mykecosta2142&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
